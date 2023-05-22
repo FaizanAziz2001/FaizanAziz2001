@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaizanAziz2001
-- 👀 I’m interested in learning how to code
+- 👀 I’m interested solving problems and making websites
 - 🌱 I’m currently learning C++,python,Ruby on rails,HTML,CSS,JS,java
 
 
